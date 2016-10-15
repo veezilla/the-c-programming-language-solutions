@@ -1,7 +1,7 @@
 # The C Programming Language (2nd Edition)
 ## Solutions
 
-[The C Programming Language](https://en.wikipedia.org/wiki/The_C_Programming_Language) is a computer programming book written by Brian Kernighan and Dennis Ritchie. It is affectionately reffered to as K&R.
+[The C Programming Language](https://en.wikipedia.org/wiki/The_C_Programming_Language) is a computer programming book written by Brian Kernighan and Dennis Ritchie. It is affectionately referred to as K&R.
 
 This repo contains my solutions to all the exercises.
 
